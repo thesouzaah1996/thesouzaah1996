@@ -10,7 +10,6 @@ Aqui você vai encontrar meus estudos, projetos e experimentos com Java, arquite
   <img align="center" alt="Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Redis" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>
   
   ##
