@@ -3,12 +3,6 @@ Opa, eu sou o Matheus de Souza, desenvolvedor backend.
 Sou apaixonado por criar sistemas escaláveis, disponíveis e bem estruturados, sempre aplicando padrões de projeto para entregar soluções de qualidade.
 Aqui você vai encontrar meus estudos, projetos e experimentos com Java, arquitetura de software e boas práticas de desenvolvimento.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesouzaah1996&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesouzaah1996&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
   <a href="mailto:mfscontato2196@gmail.com" target="_blank">
