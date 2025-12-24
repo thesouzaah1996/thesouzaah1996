@@ -38,3 +38,17 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs
+      ?username=thesouzaah1996
+      &layout=compact
+      &langs_count=6
+      &theme=dracula
+      &hide_border=true
+      &hide=html,css"
+    height="150"
+    alt="Most Used Languages"
+  />
+</div>
