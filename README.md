@@ -25,27 +25,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-fernando" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:mfscontato2196@gmail.com">
-    <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://wa.me/55XXXXXXXXXX" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="WhatsApp"
-    />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
